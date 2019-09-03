@@ -1,0 +1,1 @@
+<view><input class="inp" type="text" data-event-opts="{{[['input',[['__set_model',['','nickname','$event',[]]]]]]}}" value="{{nickname}}" bindinput="__e"/><button class="yes" type="primary" data-event-opts="{{[['tap',[['yes',['$event']]]]]}}" bindtap="__e">保存</button></view>

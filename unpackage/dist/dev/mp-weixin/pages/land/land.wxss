@@ -1,0 +1,53 @@
+
+.userland {
+	text-align: center;
+	width: 100%;
+	font-size: 26rpx;
+	color: #C0C0C0;
+	margin: 20rpx;
+}
+.userlandimg {
+	text-align: center;
+}
+.userlandimg image {
+	width: 100rpx;
+	height: 100rpx;
+}
+.disline {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 100%;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+	margin: 0 auto;
+}
+.disline image {
+	margin: 10rpx;
+}
+.topimgdv {
+	width: 100%;
+	height: 150rpx;
+	text-align: center;
+	margin-top: 20%;
+}
+.topimgdv image {
+	width: 150rpx;
+	height: 150rpx;
+}
+.inp {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 10rpx auto;
+	width: 80%;
+	padding: 20rpx;
+}
+.btn {
+	width: 80%;
+	background: #4CD964;
+}
+

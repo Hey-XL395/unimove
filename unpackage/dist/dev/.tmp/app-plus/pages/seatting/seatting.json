@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我的账号",
+  "usingComponents": {
+    "cmd-cell-item": "/components/cmd-cell-item/cmd-cell-item"
+  }
+}

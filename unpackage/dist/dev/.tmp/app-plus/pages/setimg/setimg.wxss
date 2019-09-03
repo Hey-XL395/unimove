@@ -1,0 +1,21 @@
+
+.btn {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.img {
+	width: 100%;
+	height: 1000rpx;
+}
+.btn button {
+	width: 400rpx;
+	background: #4CD964;
+	margin: 40rpx;
+}
+

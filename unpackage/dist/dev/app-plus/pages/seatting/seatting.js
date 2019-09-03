@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"biguserimg { background: #000000; position: absolute; top: 0; bottom: 0; right: 0; left: 0; text-align: center; }\n.",[1],"biguserimg wx-image{ margin-top: 30%; }\n.",[1],"userimg { width: ",[0,60],"; height: ",[0,60],"; }\n.",[1],"btn1 { margin: ",[0,20],"; background: #4CD964; }\n",],undefined,{path:"./pages/seatting/seatting.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/seatting/seatting.wxml') } }));

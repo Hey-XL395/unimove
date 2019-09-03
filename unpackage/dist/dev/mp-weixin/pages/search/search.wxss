@@ -1,0 +1,62 @@
+
+.topinp {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	font-size: 30rpx;
+	vertical-align: middle;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	margin: 20rpx;
+}
+.topinp input {
+	border: 1rpx #3C3E49 solid;
+	width: 80%;
+	padding: 5rpx;
+	padding-left: 60rpx;
+	border-radius: 30rpx;
+	position: relative;
+}
+.searchimg {
+	left: 40rpx;
+	width: 40rpx;
+	height: 40rpx;
+	position: absolute;
+}
+.searchmove {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 100%;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.movename {
+	width: 200rpx;
+	margin: 20rpx;
+	font-size: 26rpx;
+	text-align: center;
+	font-size: 30rpx;
+	/* 只显示一行 */
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+}
+.searchmove image {
+	width: 210rpx;
+	height: 250rpx;
+	margin: 20rpx;
+}
+

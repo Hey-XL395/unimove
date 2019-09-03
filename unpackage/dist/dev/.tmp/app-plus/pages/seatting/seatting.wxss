@@ -1,0 +1,22 @@
+
+.biguserimg {
+	background: #000000;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	text-align: center;
+}
+.biguserimg image{
+	margin-top: 30%;
+}
+.userimg {
+	width: 60rpx;
+	height: 60rpx;
+}
+.btn1 {
+	margin: 20rpx;
+	background: #4CD964;
+}
+

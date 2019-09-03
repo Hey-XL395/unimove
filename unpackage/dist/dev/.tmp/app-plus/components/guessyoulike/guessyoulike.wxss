@@ -1,0 +1,39 @@
+
+.leftimg {
+	width: 200rpx;
+	margin: 20rpx;
+	height: 250rpx;
+	border-radius: 30rpx;
+}
+.rightdv {
+	margin: 20rpx;
+	font-size: 27rpx;
+}
+.like {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	vertical-align: middle;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.title {
+	font-size: 30rpx;
+	font-weight: bold;
+}
+.Fabulous {
+	font-size: 30rpx;
+	padding: 10rpx;
+	color: skyblue;
+	text-align: center;
+	border-left: #007AFF dashed 1rpx;
+}
+.Fabulous image {
+	width: 60rpx;
+	height: 60rpx;
+	text-align: center;
+}
+

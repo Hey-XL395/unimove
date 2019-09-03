@@ -1,0 +1,1 @@
+<view class="videodv1"><block wx:for="{{movie}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view><video class="videodv" src="{{item.trailer}}" controls poster="{{item.cover}}" id="{{item.id}}" data-event-opts="{{[['play',[['play',['$0'],[[['movie','',index]]]]]]]}}" bindplay="__e"></video></view></block></view>

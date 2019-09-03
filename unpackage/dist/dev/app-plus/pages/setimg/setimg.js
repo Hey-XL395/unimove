@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"btn { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; }\n.",[1],"img { width: 100%; height: ",[0,1000],"; }\n.",[1],"btn wx-button { width: ",[0,400],"; background: #4CD964; margin: ",[0,40],"; }\n",],undefined,{path:"./pages/setimg/setimg.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/setimg/setimg.wxml') } }));

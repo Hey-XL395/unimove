@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "电影",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-rate": "/components/uni-ui/uni-rate/uni-rate",
+    "notice": "/components/Notice/Notice",
+    "guessyoulike": "/components/guessyoulike/guessyoulike"
+  }
+}

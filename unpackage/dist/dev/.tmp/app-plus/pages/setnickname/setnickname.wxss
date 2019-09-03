@@ -1,0 +1,10 @@
+
+.inp {
+	margin: 20rpx;
+	border: #4CD964 1rpx solid;
+	padding: 20rpx;
+}
+.yes {
+	margin: 30rpx;
+}
+

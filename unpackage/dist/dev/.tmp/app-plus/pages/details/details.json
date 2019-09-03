@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "详情",
+  "titleNView": {
+    "type": "transparent",
+    "buttons": [
+      {
+        "type": "share"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-rate": "/components/uni-ui/uni-rate/uni-rate"
+  }
+}
